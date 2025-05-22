@@ -5,7 +5,8 @@ Here is the code for generation of weakly supervised data. As cited in the paper
 
 Citation:
 
-```@inproceedings{liu-etal-2023-comsearch,
+```
+@inproceedings{liu-etal-2023-comsearch,
     title = "{C}om{S}earch: Equation Searching with Combinatorial Strategy for Solving Math Word Problems with Weak Supervision",
     author = "Liu, Qianying  and
       Guan, Wenyu  and
@@ -22,4 +23,5 @@ Citation:
     url = "https://aclanthology.org/2023.eacl-main.186/",
     doi = "10.18653/v1/2023.eacl-main.186",
     pages = "2549--2562",
-}```
+}
+```
